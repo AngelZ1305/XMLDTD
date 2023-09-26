@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Juegos SYSTEM "DTD.dtd">
+<Juegos>
+    <Fecha>24-09-2023</Fecha>
+    <Partido>
+        <Equipos>
+            <Local>Toluca</Local>
+            <Visitante>America</Visitante>
+        </Equipos>
+        <Marcador>1-1</Marcador>
+        <Goles>
+            <Gol>
+                <Jugador>Diego Valdés</Jugador>
+                <Minuto>25</Minuto>
+            </Gol>
+            <Gol>
+                <Jugador>Maximiliano Araujo</Jugador>
+                <Minuto>54</Minuto>
+            </Gol>
+        </Goles>
+    </Partido>
+    <Partido>
+        <Equipos>
+            <Local>Cruz Azul</Local>
+            <Visitante>Querétaro</Visitante>
+        </Equipos>
+        <Marcador>1-3</Marcador>
+        <Goles>
+            <Gol>
+                <Jugador>Rodolfo Rotondi</Jugador>
+                <Minuto>45+5</Minuto>
+            </Gol>
+            <Gol>
+                <Jugador>Raúl Sandoval</Jugador>
+                <Minuto>50</Minuto>
+            </Gol>
+            <Gol>
+                <Jugador>Raúl Zúñiga</Jugador>
+                <Minuto>77</Minuto>
+            </Gol>
+            <Gol>
+                <Jugador>Nicolás Cordero</Jugador>
+                <Minuto>87</Minuto>
+            </Gol>
+        </Goles>
+    </Partido>
+</Juegos>
